@@ -1,6 +1,4 @@
 # Sonoyuncu-Account-Stealer
-Discordum : spy#8888 Yardim İçin Yazabilirsin
-
 <3 Komut Sayisi Webhook ile Beraber 5 e Düşürüldü
 
 <3 Gereksiz Komutlar Silindi 
@@ -11,3 +9,4 @@ Discordum : spy#8888 Yardim İçin Yazabilirsin
 
 <3 Membershipinizi Dercrypt Edilir Hesap Basi 2 Tl 
 
+Discordum : spy#8888 Yardim İçin Yazabilirsin
