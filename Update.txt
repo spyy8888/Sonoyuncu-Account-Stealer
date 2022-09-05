@@ -1,8 +1,0 @@
-#Sonoyuncu Account Graber New Updates
-
-<3 Komut Sayisi Webhook ile Beraber 5 e Düşürüldü
-
-<3 Gereksiz Komutlar Silindi 
-
-<3 Sadece Username Cekiyordu Artik Computer Name De Çekiyor
-
