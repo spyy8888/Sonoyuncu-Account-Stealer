@@ -9,4 +9,4 @@
 
 <3 Membershipinizi Dercrypt Edilir Hesap Basi 2 Tl 
 
-Discordum : spy#8888 Yardim İçin Yazabilirsin
+Discordum : spy#8089 Yardim İçin Yazabilirsin
